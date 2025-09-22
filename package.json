@@ -1,0 +1,14 @@
+{
+  "name": "emoji-auto-react-bot",
+  "version": "1.0.0",
+  "description": "Auto-reaction bot for JV Trades server",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.3.1"
+  }
+}
